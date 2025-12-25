@@ -74,7 +74,8 @@
     <string name="OK">"حسنًا"</string>
     <string name="CANCEL">"إلغاء"</string>
     <string name="Chat_Name">"اسم الدردشة"</string>
-    <string name="Max_People">"الحد الأقصى للناس"</string>
+    <string name="Max_Peoالحد الأقصى للاعبين
+        س"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
     <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
@@ -153,7 +154,8 @@
     <string name="Dot_Gobbler">"آكل النقاط الشره"</string>
     <string name="Dot_Devourer">"ملتهم النقاط"</string>
     <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
-    <string name="Dot_Sommelier">"ساقي النقاط!"</string>
+    <string name="Dot_Sommelier">"ساقي
+    النقاط!"</string>
 
     <string name="Quadra_Gulp">"ابتلاع رباعي"</string>
     <string name="Multi_Gulp">"ابتلاع متعدد"</string>
